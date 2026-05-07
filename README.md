@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Unzip `data.zip` and place the contents in your Google Drive under `Social_Media_Mining_Project/data/`
+1. Place the contents in your Google Drive under `Social_Media_Mining_Project/data/`
 2. All notebooks are designed to run in **Google Colab**
 
 ## Run Order
@@ -10,7 +10,7 @@
 Notebooks must be run in this order:
 
 ```
-data_loading → features → eda → modeling → temporal_network
+notebook_01_data_loading → notebook_03_features → notebook_02_eda → notebook_04_modeling → notebook_05_temporal_network → notebook_06_rq1_virality_modeling
 ```
 
 ## Generated Files
