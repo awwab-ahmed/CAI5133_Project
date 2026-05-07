@@ -10,7 +10,7 @@
 Notebooks must be run in this order:
 
 ```
-notebook_01_data_loading → notebook_03_features → notebook_02_eda → notebook_04_modeling → notebook_05_temporal_network → notebook_06_rq1_virality_modeling
+notebook_01_data_loading → notebook_02_eda → notebook_03_features → notebook_04_modeling → notebook_05_temporal_network → notebook_06_rq1_virality_modeling
 ```
 
 ## Generated Files
